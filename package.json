@@ -3,15 +3,24 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "dotenv": "^16.5.0",
+    "dotenv": "^16.6.1",
     "express": "^5.1.0",
-    "mongoose": "^8.15.2"
-  }
+    "mongoose": "^8.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gayeshakavi/Assignment-T.H.G.Kavindi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gayeshakavi/Assignment-T.H.G.Kavindi/issues"
+  },
+  "homepage": "https://github.com/gayeshakavi/Assignment-T.H.G.Kavindi#readme"
 }
